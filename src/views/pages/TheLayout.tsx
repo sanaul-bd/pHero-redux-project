@@ -15,10 +15,6 @@ const TheLayout = () => {
                 <Main />
             </main>
             {/* ------ */}
-            <hr />
-            <hr />
-            <hr />
-            <hr />
             <div>
                 <Footer />
             </div>

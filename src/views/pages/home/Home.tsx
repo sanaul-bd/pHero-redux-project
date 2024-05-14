@@ -9,7 +9,8 @@ const Home = () => {
                 <div className='py-20'>
                     <DsSlider />
                 </div>
-                <div>
+                <div className='container '>
+                    <h2 className='ms-1 my-3 font-semibold'>Available Shops here</h2>
                     <ProductsArray />
                 </div>
             </main>

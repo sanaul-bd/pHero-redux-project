@@ -1,6 +1,6 @@
 
 
-viedo 2 running 
+viedo 2 running 55.38 min
 
 # Project Structure____: আমরা যেভাবে আমাদের প্রজেক্ট স্ট্রাকচার সাজাবো । 
 - src
